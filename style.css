@@ -9,6 +9,7 @@
     height: 400px;
 }
 
+
 /* ここらへんがわからない */
 #header {
     width:598px;
@@ -16,6 +17,7 @@
     margin: 50px auto;
     display:flex;
     justify-content: space-between;
+
 }
 
 
