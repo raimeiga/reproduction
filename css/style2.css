@@ -93,11 +93,13 @@ font-size: 34px;
 font-weight: 700;
 }
 
+@media (min-width: 768px) {
 #section-works {
 width:573px;
 height: 329px;
 display: flex;
 margin:0 auto;
+}
 }
 
 .works-div {
@@ -120,6 +122,14 @@ letter-spacing: 0em;
 text-align: center;
 }
 
+@media (max-width: 767px) {
+    .works-div {
+        display: block;
+        width:100%;
+        text-align: center;
+        padding-bottom: 40px;
+    }
+}
 
 #copyright {
     margin: 0 auto;    
