@@ -1,0 +1,138 @@
+#body-all {
+    width: 960px;
+    height: 1220px;
+    position: relative;
+}
+
+#camera-p {
+    width: 960px;
+    height: 400px;
+}
+
+/* ここらへんがわからない */
+#header {
+    width:598px;
+    height:69px;
+    margin: 50px auto;
+    display:flex;
+    justify-content: space-between;
+}
+
+
+#myprofile {
+    font-family: Noto Sans;
+    font-size: 34px;
+    font-weight: 700;
+    border: solid 1px red;
+    padding: 
+    
+    
+}
+
+#fisrt-about {
+    font-family: Noto Sans;
+    font-size: 34px;
+    font-weight: 700;
+    line-height: 46px;
+    margin-left: 150px;
+    
+    }
+
+#fisrt-works {
+    font-family{} Noto Sans;
+    font-size: 34px;
+    font-weight: 700;
+    line-height: 46px;
+    letter-spacing: 0em;
+   }
+
+
+white-space: pre;
+
+#second-span { 
+text-align: right;
+font-size: 14px;
+padding-top: 15px;
+}
+
+#second-about {
+text-align: center;
+margin-bottom:0;
+font-family: Noto Sans;
+font-size: 34px;
+font-weight: 700;
+}
+
+/* ↑ここまでわからない */
+
+#kazuki-p {
+border-radius: 476px 476px 476px 476px;
+width: 141px;
+height: 142px;
+top: 631px;
+left: 321px;
+padding: 20px;
+}
+
+#Kazuki-name {
+font-family: Noto Sans;
+font-size: 24px;
+font-weight: 700;
+padding-left: 10px;
+}
+
+#kazuki-li {
+    font-family: Noto Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;    
+}
+
+#section-About {
+    display: flex;
+    width:580px;
+    margin: 0 auto;
+}
+
+#second-works {
+text-align: center;
+margin-bottom:20px;
+font-family: Noto Sans;
+font-size: 34px;
+font-weight: 700;
+}
+
+#section-works {
+width:573px;
+height: 329px;
+display: flex;
+margin:0 auto;
+}
+
+.works-div {
+    display: block;
+}
+.works-pi {
+ width:179px;
+ height:134px;
+ margin: 5px;
+}
+
+.works-para {
+ width:178px;
+ height:93px;
+ font-family: Noto Sans;
+font-size: 18px;
+font-weight: 400;
+line-height: 25px;
+letter-spacing: 0em;
+text-align: center;
+}
+
+
+#copyright {
+    margin: 0 auto;    
+    text-align: center;
+   }
