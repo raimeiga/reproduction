@@ -30,14 +30,19 @@ nav a {
 .home {
     border: 1px solid black;
     padding: 0px 20px;
-    margin-left: 20px;
+    margin-left: 180px;
 }
 
 /* メニューの余白 */
-.menu > a {
-    margin-left: 20px;
-    margin-right: 20px;
+.menu {
+    margin-right: 150px;
 }
+
+.menu a {
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
 
 #second-about {
 text-align: center;
