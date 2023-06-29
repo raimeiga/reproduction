@@ -1,6 +1,7 @@
 #body-all {
     width: 960px;
     height: 1220px;
+    margin:0 auto;
     position: relative;
 }
 
